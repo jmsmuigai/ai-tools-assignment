@@ -1,7 +1,8 @@
 ## 📽️ Presentation Video
 
 Watch the AI Toolkit assignment video summary here:  
-🔗 [https://video.pictory.ai/1750784259333/20250624170719472bRzQSCxZ4kgOtgz](https://video.pictory.ai/1750784259333/20250624170719472bRzQSCxZ4kgOtgz)
+🔗 [https://video.pictory.ai/1750784259333/20250624170719472bRzQSCxZ4kgOtgz]
+(https://video.pictory.ai/1750784259333/20250624170719472bRzQSCxZ4kgOtgz)
 x
 
 # AI Tools and Applications Assignment
